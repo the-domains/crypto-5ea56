@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: What is Blockchain?
-dateModified: '2017-06-15T16:25:56.467Z'
-datePublished: '2017-06-15T16:25:57.429Z'
+dateModified: '2017-06-15T16:44:10.633Z'
+datePublished: '2017-06-15T16:44:11.205Z'
 title: Beginner's guide to bitcoin
 author: []
 publisher:
@@ -27,7 +27,7 @@ In this post I have tried to collect a number of useful whitepapers, articles an
 
 The article below from CoinDesk is a good guide for people who wants to know more about bitcoin and blockchain. In the end of this article CoinDesk have provided a number of very useful links for diving deeper into the crypto world.
 
-<article style=""><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/be9ea7ffc382108f5f1a0ceeb08fe61c/noop.jpg?input=http%3A%2F%2Fmedia.coindesk.com%2Fuploads%2F2017%2F06%2Fshutterstock_637929982.jpg" /><h1>Beginner's guide to bitcoin</h1><p>"The practical consequence [...is...] for the first time, a way for one Internet user to transfer a unique piece of digital property to another Internet user, such that the transfer is guaranteed to be safe and secure, everyone knows that the transfer has taken place, and nobody can challenge the legitimacy of the transfer.</p></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8a1032d7a6d3522402221aba28df9500ac5388b2.jpg" /><h1>Beginner's guide to bitcoin</h1><p>"The practical consequence [...is...] for the first time, a way for one Internet user to transfer a unique piece of digital property to another Internet user, such that the transfer is guaranteed to be safe and secure, everyone knows that the transfer has taken place, and nobody can challenge the legitimacy of the transfer.</p></article>
 
 The following video is a good visualization of how blockchains work and how new entries are posted to the ledger:
 
