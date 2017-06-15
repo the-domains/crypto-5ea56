@@ -4,9 +4,16 @@
         <description><![CDATA[Blockchain & Crypto Economics]]></description>
         <link>http://crypto.think-like.me/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 15 Jun 2017 17:04:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Jun 2017 17:05:19 GMT</lastBuildDate>
         <atom:link href="http://crypto.think-like.me/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 15 Jun 2017 17:04:53 GMT</pubDate>
+        <pubDate>Thu, 15 Jun 2017 17:05:17 GMT</pubDate>
+        <item>
+            <title><![CDATA[What we learned from designing an academic certificates system on the blockchain]]></title>
+            <description><![CDATA[<article><h1>What we learned from designing an academic certificates system on the blockchain</h1><p>Over the past year, we have been working on a set of tools to issue, display, and verify digital credentials using the Bitcoin blockchain and the open badges specification. Today we are releasing version 1 of our code under the MIT open-source license to make it easier for others to start experimenting with similar ideas.</p><img src="https://cdn-images-1.medium.com/max/1200/0*LcgQy9J55lxVbGIU."></article>]]></description>
+            <link>https://medium.com/mit-media-lab/what-we-learned-from-designing-an-academic-certificates-system-on-the-blockchain-34ba5874f196</link>
+            <guid isPermaLink="false">193618a7-334d-4ab9-b94f-c2ef6814e7c2</guid>
+            <pubDate>Thu, 15 Jun 2017 17:05:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How Bitcoin's Blockchain Could Power an Alternate Internet]]></title>
             <description><![CDATA[<article><h1>How Bitcoin&apos;s Blockchain Could Power an Alternate Internet</h1><p>There&apos;s this hopelessly geeky new technology. It&apos;s too hard to understand and use. How could it ever break the mass market? Yet developers are excited, venture capital is pouring in, and industry players are taking note. Something big might be happening. That is exactly how the Web looked back in 1994&hairsp;-&hairsp;right before it exploded.</p><img src="https://cdn-images-1.medium.com/max/1200/1*Ck3cQIL3-nAmpPpCdGIuBg.jpeg"></article>]]></description>
