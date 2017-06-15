@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: What is Blockchain?
-dateModified: '2017-06-15T16:14:15.522Z'
-datePublished: '2017-06-15T16:14:16.308Z'
+dateModified: '2017-06-15T16:16:27.776Z'
+datePublished: '2017-06-15T16:16:28.786Z'
 title: Beginner's guide to bitcoin
 author: []
 publisher:
@@ -10,7 +10,9 @@ publisher:
   name: CoinDesk
   favicon: 'http://media.coindesk.com/uploads/2016/07/favicon.ico'
   domain: www.coindesk.com
-via: {}
+via:
+  name: CoinDesk
+  url: 'https://.coindesk.com'
 sourcePath: _posts/2017-06-15-beginners-guide-to-bitcoin.md
 hasPage: true
 starred: false
