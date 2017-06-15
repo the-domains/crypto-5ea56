@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: What is Blockchain?
-dateModified: '2017-06-15T16:44:10.633Z'
-datePublished: '2017-06-15T16:44:11.205Z'
+dateModified: '2017-06-15T17:06:30.882Z'
+datePublished: '2017-06-15T17:06:31.257Z'
 title: Beginner's guide to bitcoin
 author: []
 publisher:
