@@ -48,14 +48,14 @@ isBasedOnUrl: >-
 title: >-
   What we learned from designing an academic certificates system on the
   blockchain
-datePublished: '2017-06-15T17:05:17.256Z'
-dateModified: '2017-06-15T17:05:15.610Z'
-datePublishedOriginal: '2017-06-15T17:05:17.256Z'
+datePublished: '2017-06-15T17:06:31.256Z'
+dateModified: '2017-06-15T17:06:30.882Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: >-
   _posts/2017-06-15-what-we-learned-from-designing-an-academic-certificates-syst.md
+starred: false
+datePublishedOriginal: '2017-06-15T17:05:17.256Z'
 _type: Article
 _context: 'http://schema.org'
 
