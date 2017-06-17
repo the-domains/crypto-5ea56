@@ -34,6 +34,9 @@ navigation:
   - name: Accomplishments & Portfolio
     url: 'http://portfolio.think-like.me/'
     type: external
+  - name: About Me
+    url: 'https://www.linkedin.com/in/ksvarre'
+    type: external
 title: Blockchain & Crypto Economics
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
