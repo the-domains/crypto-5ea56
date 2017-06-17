@@ -1,4 +1,5 @@
-typography_spectrum: 0.5531998827155674
+layout_spectrum: 0.5412671266391984
+typography_spectrum: 0.5586901856535622
 color:
   brandColors:
     - '#000000'
@@ -6,12 +7,11 @@ color:
     - '#7E8AA2'
     - '#FFFFFF'
     - '#FF9800'
-  brandStrength: 0.08417093451036695
-  lightness: 0.29551187510854626
-  saturation: 0.7792774699782169
-  rhythmicContrast: 0.31254361078145587
+  brandStrength: 0.08865273261534991
+  lightness: 0.2941017476792014
+  saturation: 0.7786300681866153
+  rhythmicContrast: 0.3118880174352354
 github: true
-layout_spectrum: 0.6916763343010108
 author:
   name: Kristoffer Rose Svarre
   email: ksvarre@gmail.com
