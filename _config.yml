@@ -10,6 +10,7 @@ color:
   lightness: 0.29551187510854626
   saturation: 0.7792774699782169
   rhythmicContrast: 0.31254361078145587
+github: true
 layout_spectrum: 0.6916763343010108
 author:
   name: Kristoffer Rose Svarre
@@ -21,6 +22,9 @@ navigation:
   - name: Home
     url: 'https://think-like.me'
     type: external
+  - name: Technology & Science
+    url: 'http://ai.think-like.me/'
+    type: external
 title: Blockchain & Crypto Economics
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
@@ -31,22 +35,21 @@ content:
     src: >-
       https://s3-us-west-2.amazonaws.com/the-grid-img/p/a776dec0899259576fe21e0bc7840217e764e737.jpg
     metadata:
-      author: []
+      datePublished: null
+      isBasedOnUrl: >-
+        https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/696b495d9eac72b23497909b0ead6899/croprotate.jpeg?cropheight=675&cropwidth=892&degrees=0&input=https%3A%2F%2Fvideo-images.vice.com%2Farticles%2F59431309df10a05676b8f847%2Flede%2F1497612065665-shutterstock_653153323.jpeg%3Fcrop%3D1xw%3A0.8364312267657993xh%3Bcenter%2Ccenter%26resize%3D1200%3A*&x=149&y=0
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'http://vice.com'
         name: Vice
         favicon: null
         domain: imgflo.herokuapp.com
-      keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      isBasedOnUrl: >-
-        https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/696b495d9eac72b23497909b0ead6899/croprotate.jpeg?cropheight=675&cropwidth=892&degrees=0&input=https%3A%2F%2Fvideo-images.vice.com%2Farticles%2F59431309df10a05676b8f847%2Flede%2F1497612065665-shutterstock_653153323.jpeg%3Fcrop%3D1xw%3A0.8364312267657993xh%3Bcenter%2Ccenter%26resize%3D1200%3A*&x=149&y=0
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
@@ -54,4 +57,3 @@ description: >-
   in recent months I have devoted an increased amount of time on understanding
   and evangelizing crypto currencies and blockchain technology. on this blog i
   will post about what i learned, and how.
-github: true
