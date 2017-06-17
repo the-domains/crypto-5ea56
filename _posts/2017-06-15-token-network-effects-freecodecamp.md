@@ -46,13 +46,13 @@ app_links:
 isBasedOnUrl: >-
   https://medium.freecodecamp.com/token-network-effects-a-new-business-model-for-a-decentralized-web-6cde8b4e862
 title: Token Network Effects - freeCodeCamp
-datePublished: '2017-06-15T17:06:40.031Z'
-dateModified: '2017-06-15T17:06:22.818Z'
-datePublishedOriginal: '2017-06-15T17:06:40.031Z'
+datePublished: '2017-06-17T05:23:05.619Z'
+dateModified: '2017-06-17T05:23:05.160Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-06-15-token-network-effects-freecodecamp.md
+starred: false
+datePublishedOriginal: '2017-06-15T17:06:40.031Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
