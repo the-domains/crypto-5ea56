@@ -28,6 +28,9 @@ navigation:
   - name: 'Business, Innovation & Entrepreneurship'
     url: 'http://business.think-like.me/'
     type: external
+  - name: Motivation & Personal Deevlopment
+    url: 'http://development.think-like.me/'
+    type: external
 title: Blockchain & Crypto Economics
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
