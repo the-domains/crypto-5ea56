@@ -1,7 +1,7 @@
 ---
 title: Beginner's guide to bitcoin
-datePublished: '2017-06-16T01:49:17.013Z'
-dateModified: '2017-06-16T01:49:14.160Z'
+datePublished: '2017-06-17T05:23:05.617Z'
+dateModified: '2017-06-17T05:23:05.160Z'
 publisher:
   name: CoinDesk
   domain: www.coindesk.com
@@ -12,9 +12,9 @@ inFeed: true
 hasPage: true
 description: What is Blockchain?
 via: {}
+sourcePath: _posts/2017-06-15-beginners-guide-to-bitcoin.md
 starred: false
 datePublishedOriginal: '2017-06-15T15:43:15.082Z'
-sourcePath: _posts/2017-06-15-beginners-guide-to-bitcoin.md
 url: beginners-guide-to-bitcoin/index.html
 _type: Article
 
