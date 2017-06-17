@@ -31,6 +31,9 @@ navigation:
   - name: Motivation & Personal Deevlopment
     url: 'http://development.think-like.me/'
     type: external
+  - name: Accomplishments & Portfolio
+    url: 'http://portfolio.think-like.me/'
+    type: external
 title: Blockchain & Crypto Economics
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
