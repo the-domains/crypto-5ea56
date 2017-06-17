@@ -28,8 +28,8 @@ app_links: []
 isBasedOnUrl: >-
   https://motherboard.vice.com/en_us/article/the-motherboard-bitcoin-and-ethereum-primer
 title: The Motherboard Bitcoin and Ethereum Primer
-datePublished: '2017-06-17T05:13:37.377Z'
-dateModified: '2017-06-17T05:13:37.010Z'
+datePublished: '2017-06-17T05:23:05.571Z'
+dateModified: '2017-06-17T05:23:05.160Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-06-17-the-motherboard-bitcoin-and-ethereum-primer.md
