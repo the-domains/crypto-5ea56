@@ -46,8 +46,8 @@ app_links:
 isBasedOnUrl: >-
   https://backchannel.com/how-bitcoins-blockchain-could-power-an-alternate-internet-bb501855af67
 title: How Bitcoin's Blockchain Could Power an Alternate Internet
-datePublished: '2017-06-17T15:11:30.140Z'
-dateModified: '2017-06-17T15:11:29.309Z'
+datePublished: '2017-06-17T15:11:34.958Z'
+dateModified: '2017-06-17T15:11:34.448Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-06-15-how-bitcoins-blockchain-could-power-an-alternate-internet.md
