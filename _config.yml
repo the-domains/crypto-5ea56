@@ -20,7 +20,7 @@ name: Crypto Economics
 url: 'http://crypto.think-like.me/'
 navigation:
   - name: Home
-    url: 'https://think-like.me'
+    url: 'http://think-like.me'
     type: external
   - name: Technology & Science
     url: 'http://ai.think-like.me/'
@@ -56,7 +56,6 @@ content:
         domain: imgflo.herokuapp.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
