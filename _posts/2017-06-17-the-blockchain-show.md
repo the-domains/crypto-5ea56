@@ -14,8 +14,8 @@ description: >-
 app_links: []
 isBasedOnUrl: 'http://theblockchainshow.libsyn.com/podcast'
 title: The Blockchain Show
-datePublished: '2017-06-17T15:11:30.143Z'
-dateModified: '2017-06-17T15:11:29.309Z'
+datePublished: '2017-06-17T15:11:34.957Z'
+dateModified: '2017-06-17T15:11:34.448Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-06-17-the-blockchain-show.md
