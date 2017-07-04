@@ -44,13 +44,13 @@ app_links:
     type: android
 isBasedOnUrl: 'https://blog.coinbase.com/a-beginners-guide-to-ethereum-tokens-fbd5611fe30b'
 title: A beginner's guide to Ethereum tokens - The Coinbase Blog
-datePublished: '2017-07-04T04:50:58.813Z'
-dateModified: '2017-07-04T04:44:43.602Z'
-datePublishedOriginal: '2017-07-04T04:50:58.813Z'
+datePublished: '2017-07-04T04:52:08.472Z'
+dateModified: '2017-07-04T04:52:07.503Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-07-04-a-beginners-guide-to-ethereum-tokens-the-coinbase-blog.md
+starred: false
+datePublishedOriginal: '2017-07-04T04:50:58.813Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
