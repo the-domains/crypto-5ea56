@@ -1,6 +1,6 @@
 ---
 title: 'Ethereum: Bitcoin Plus Everything - ConsenSys - Medium'
-dateModified: '2017-06-29T14:33:42.445Z'
+dateModified: '2017-07-04T04:52:25.434Z'
 publisher: {}
 author:
   - name: ConsenSys
@@ -15,10 +15,10 @@ description: >-
   You're Thinking With Contracts! Remember the first time you began using
   objects in a programming language?
 via: {}
-datePublished: '2017-07-04T04:51:08.268Z'
+datePublished: '2017-07-04T04:52:25.777Z'
+sourcePath: _posts/2017-07-04-ethereum-bitcoin-plus-everything-consensys-medium.md
 starred: false
 datePublishedOriginal: '2017-07-04T04:51:08.268Z'
-sourcePath: _posts/2017-07-04-ethereum-bitcoin-plus-everything-consensys-medium.md
 url: ethereum-bitcoin-plus-everything-consensys-medium/index.html
 _type: Article
 _context: 'http://schema.org'
