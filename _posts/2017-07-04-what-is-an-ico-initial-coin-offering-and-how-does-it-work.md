@@ -1,6 +1,6 @@
 ---
 title: What is an ICO (Initial Coin Offering) and How Does it Work? | FXEmpire.com
-dateModified: '2017-07-04T02:15:54.179Z'
+dateModified: '2017-07-04T04:52:18.607Z'
 publisher: {}
 author: []
 inFeed: true
@@ -10,12 +10,12 @@ description: >-
   History and Evolution of ICO How Does ICO Work and How to use ICO The New Way
   of Te
 via: {}
-datePublished: '2017-07-04T04:50:52.119Z'
-starred: false
-datePublishedOriginal: '2017-07-04T04:50:52.119Z'
+datePublished: '2017-07-04T04:52:19.173Z'
 isBasedOnUrl: >-
   https://www.fxempire.com/education/article/ico-initial-coin-offering-work-418446
 sourcePath: _posts/2017-07-04-what-is-an-ico-initial-coin-offering-and-how-does-it-work.md
+starred: false
+datePublishedOriginal: '2017-07-04T04:50:52.119Z'
 _type: Article
 _context: 'http://schema.org'
 
