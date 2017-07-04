@@ -1,6 +1,6 @@
 ---
 title: 'Okay, WTF Is Ethereum?'
-dateModified: '2017-06-29T14:32:37.728Z'
+dateModified: '2017-07-04T04:52:25.434Z'
 publisher: {}
 author: []
 inFeed: true
@@ -11,10 +11,10 @@ description: >-
   that goes by Satoshi Nakamoto. Maybe you've heard it's the currency that fuels
   massive darknet drug markets like the now-defunct Silk Road.
 via: {}
-datePublished: '2017-07-04T04:51:11.450Z'
+datePublished: '2017-07-04T04:52:25.777Z'
+sourcePath: _posts/2017-07-04-okay-wtf-is-ethereum.md
 starred: false
 datePublishedOriginal: '2017-07-04T04:51:11.450Z'
-sourcePath: _posts/2017-07-04-okay-wtf-is-ethereum.md
 url: okay-wtf-is-ethereum/index.html
 _type: Article
 _context: 'http://schema.org'
