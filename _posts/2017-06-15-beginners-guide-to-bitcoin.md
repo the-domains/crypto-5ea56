@@ -1,7 +1,7 @@
 ---
-title: Beginner's guide to bitcoin
-datePublished: '2017-06-17T05:23:05.617Z'
-dateModified: '2017-06-17T05:23:05.160Z'
+title: What is Blockchain?
+datePublished: '2017-07-05T19:42:53.476Z'
+dateModified: '2017-07-05T19:42:52.908Z'
 publisher:
   name: CoinDesk
   domain: www.coindesk.com
@@ -10,7 +10,11 @@ publisher:
 author: []
 inFeed: true
 hasPage: true
-description: What is Blockchain?
+description: >-
+  Bitcoin is being touted as a possible new economic foundation, but what is
+  actually making Bitcoin and other crypto currencies work? You might have heard
+  about something called the blockchain. To cut it short a blockchain is a
+  public ledger distributed across a decentralized network of computers.
 via: {}
 sourcePath: _posts/2017-06-15-beginners-guide-to-bitcoin.md
 starred: false
@@ -19,9 +23,9 @@ url: beginners-guide-to-bitcoin/index.html
 _type: Article
 
 ---
-**What is Blockchain?**
+# **What is Blockchain?**
 
-Bitcoin being touted as a possible new economic foundation, but what is actually making Bitcoin and other crypto currencies work? You might have heard about something called the blockchain. To cut it short a blockchain is a public ledger distributed across a decentralized network of computers.
+Bitcoin is being touted as a possible new economic foundation, but what is actually making Bitcoin and other crypto currencies work? You might have heard about something called the blockchain. To cut it short a blockchain is a public ledger distributed across a decentralized network of computers.
 
 In this post I have tried to collect a number of useful whitepapers, articles and blogs explaining the Blockchain concept. I hope you will find it useful and learn a thing or two about blockchain technology
 
@@ -32,5 +36,9 @@ The article below from CoinDesk is a good guide for people who wants to know mor
 The following video is slightly technical, but with visualization of how blockchains work and how new entries are posted to the ledger it will give a good understanding of how blockchains work:
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F_160oMzblY8%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D_160oMzblY8&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F_160oMzblY8%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
+
+A good explanation of what an ICO is.
+
+<article style=""><img src="https://responsive.fxempire.com/fxempire/800/2017/07/Ripples-XRP.png" /><h1>What is an ICO (Initial Coin Offering) and How Does it Work? | FXEmpire.com</h1><p>So what is ICO (Initial Coin Offering)? Blockchains Tokens Cryptocurrencies History and Evolution of ICO How Does ICO Work and How to use ICO The New Way of Te</p></article>
 
 I will continue to add links to this post as I find them. In the meantime these are good links to get a basic understanding of the underlying technology for crypto currencies such as Bitcoin.
