@@ -1,7 +1,7 @@
 ---
 title: What is Blockchain?
-datePublished: '2017-07-05T19:42:54.656Z'
-dateModified: '2017-07-05T19:42:54.199Z'
+datePublished: '2017-07-05T19:43:00.627Z'
+dateModified: '2017-07-05T19:43:00.227Z'
 publisher:
   name: CoinDesk
   domain: www.coindesk.com
@@ -39,6 +39,6 @@ The following video is slightly technical, but with visualization of how blockch
 
 A good explanation of what an ICO is.
 
-<article style=""><img src="https://responsive.fxempire.com/fxempire/800/2017/07/Ripples-XRP.png" /><h1>What is an ICO (Initial Coin Offering) and How Does it Work? | FXEmpire.com</h1><p>So what is ICO (Initial Coin Offering)? Blockchains Tokens Cryptocurrencies History and Evolution of ICO How Does ICO Work and How to use ICO The New Way of Te</p></article>
+<article style=""><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/057ca80b7cc54d3672412b8d7fb91107/noop.png?input=https%3A%2F%2Fresponsive.fxempire.com%2Ffxempire%2F800%2F2017%2F07%2FRipples-XRP.png" /><h1>What is an ICO (Initial Coin Offering) and How Does it Work? | FXEmpire.com</h1><p>So what is ICO (Initial Coin Offering)? Blockchains Tokens Cryptocurrencies History and Evolution of ICO How Does ICO Work and How to use ICO The New Way of Te</p></article>
 
 I will continue to add links to this post as I find them. In the meantime these are good links to get a basic understanding of the underlying technology for crypto currencies such as Bitcoin.
