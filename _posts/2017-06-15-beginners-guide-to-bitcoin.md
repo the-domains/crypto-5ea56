@@ -1,7 +1,7 @@
 ---
 title: What is Blockchain?
-datePublished: '2017-07-05T19:43:00.627Z'
-dateModified: '2017-07-05T19:43:00.227Z'
+datePublished: '2017-07-05T19:54:24.502Z'
+dateModified: '2017-07-05T19:54:23.757Z'
 publisher:
   name: CoinDesk
   domain: www.coindesk.com
@@ -36,9 +36,5 @@ The article below from CoinDesk is a good guide for people who wants to know mor
 The following video is slightly technical, but with visualization of how blockchains work and how new entries are posted to the ledger it will give a good understanding of how blockchains work:
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F_160oMzblY8%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D_160oMzblY8&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F_160oMzblY8%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
-
-A good explanation of what an ICO is.
-
-<article style=""><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/057ca80b7cc54d3672412b8d7fb91107/noop.png?input=https%3A%2F%2Fresponsive.fxempire.com%2Ffxempire%2F800%2F2017%2F07%2FRipples-XRP.png" /><h1>What is an ICO (Initial Coin Offering) and How Does it Work? | FXEmpire.com</h1><p>So what is ICO (Initial Coin Offering)? Blockchains Tokens Cryptocurrencies History and Evolution of ICO How Does ICO Work and How to use ICO The New Way of Te</p></article>
 
 I will continue to add links to this post as I find them. In the meantime these are good links to get a basic understanding of the underlying technology for crypto currencies such as Bitcoin.
