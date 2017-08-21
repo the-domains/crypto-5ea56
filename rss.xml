@@ -4,9 +4,9 @@
         <description><![CDATA[Blockchain & Crypto Economics]]></description>
         <link>http://crypto.think-like.me/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Aug 2017 06:32:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Aug 2017 06:37:37 GMT</lastBuildDate>
         <atom:link href="http://crypto.think-like.me/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 21 Aug 2017 06:32:56 GMT</pubDate>
+        <pubDate>Mon, 21 Aug 2017 06:37:19 GMT</pubDate>
         <item>
             <title><![CDATA[What is Blockchain?]]></title>
             <description><![CDATA[<h1><strong>What is Blockchain?</strong></h1>,<p>Bitcoin is being touted as a possible new economic foundation, but what is actually making Bitcoin and other crypto currencies work? You might have heard about something called the blockchain. To cut it short a blockchain is a public ledger distributed across a decentralized network of computers.</p>,<p>In this post I have tried to collect a number of useful whitepapers, articles and blogs explaining the Blockchain concept. I hope you will find it useful and learn a thing or two about blockchain technology</p>,<p>The article below from CoinDesk is a good guide for people who wants to know more about bitcoin and blockchain. In the end of this article CoinDesk have provided a number of very useful links for diving deeper into the crypto world.</p>,<article><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8a1032d7a6d3522402221aba28df9500ac5388b2.jpg"><h1>Beginner&apos;s guide to bitcoin</h1><p>&quot;The practical consequence [...is...] for the first time, a way for one Internet user to transfer a unique piece of digital property to another Internet user, such that the transfer is guaranteed to be safe and secure, everyone knows that the transfer has taken place, and nobody can challenge the legitimacy of the transfer.</p></article>,<p>The following video is slightly technical, but with visualization of how blockchains work and how new entries are posted to the ledger it will give a good understanding of how blockchains work:</p>,<p>I will continue to add links to this post as I find them. In the meantime these are good links to get a basic understanding of the underlying technology for crypto currencies such as Bitcoin.</p>]]></description>
@@ -43,6 +43,13 @@
             <pubDate>Thu, 15 Jun 2017 15:33:56 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Thinking out loud about POS coins and passive income in crypto]]></title>
+            <description><![CDATA[<p>2017.08.21</p>,<article><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/da63c4308e920fff8ba6a76ac53304d1/noop.jpeg?input=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1200%2F1*D2qDNyEldHlINWtMIdBKiw.jpeg"><h1>Thinking out loud about POS coins and passive income in crypto</h1><p>Hello world! Since this is my first medium post and also my first crypto-related article ever I&apos;d like to point out some things first. I am NOT writing this article as an expert. I&apos;m still quite new to crypto and there a whole lot of things I don&apos;t understand yet.</p></article>]]></description>
+            <link>https://medium.com/@JiuCrypto/thinking-out-loud-about-pos-coins-and-passive-income-in-crypto-101e6735b651</link>
+            <guid isPermaLink="false">0d50ea22-0a5c-447f-ae60-b8fe08ba40af</guid>
+            <pubDate>Mon, 21 Aug 2017 06:23:43 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[ZenCash vs ZClassic vs ZCash]]></title>
             <description><![CDATA[<article><h1>ZenCash vs ZClassic vs ZCash</h1><p>We often see new cryptocurrencies being created due to hard forking an existing project. One of the latest projects to do so goes by the name of ZenCash, a privacy-centric coin which is directly hard-forked from ZClassic, which is a fork from ZCash.</p><img src="https://themerkle.com/wp-content/uploads/2017/06/shutterstock_376175815.jpg"></article>]]></description>
             <link>https://themerkle.com/zencash-vs-zclassic-vs-zcash/</link>
@@ -69,13 +76,6 @@
             <link>http://crypto.think-like.me/cryptoeconomics-101-the-control/index.html</link>
             <guid isPermaLink="false">96b64ce7-5c65-4551-a0dd-6bfa9012dc2c</guid>
             <pubDate>Fri, 16 Jun 2017 01:19:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A beginner's guide to Ethereum tokens - The Coinbase Blog]]></title>
-            <description><![CDATA[<article><h1>A beginner&apos;s guide to Ethereum tokens - The Coinbase Blog</h1><p>Before learning about Ethereum tokens, it is important to first understand the basics of Ethereum. Please see my beginner&apos;s guide to Ethereum for those new to this concept entirely. Ethereum tokens are simply digital assets that are being built on top of the Ethereum blockchain.</p><img src="https://cdn-images-1.medium.com/max/1600/1*E889Buf_TgXHQWbQmT-Pzg.png"></article>]]></description>
-            <link>https://blog.coinbase.com/a-beginners-guide-to-ethereum-tokens-fbd5611fe30b</link>
-            <guid isPermaLink="false">04f4da85-e44c-4442-85b4-5b7dc9804c98</guid>
-            <pubDate>Tue, 04 Jul 2017 04:50:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
