@@ -22,8 +22,8 @@ keywords:
 description: 2017.06.16
 app_links: []
 title: The Motherboard Bitcoin and Ethereum Primer
-datePublished: '2017-08-21T06:50:38.595Z'
-dateModified: '2017-08-21T06:50:38.015Z'
+datePublished: '2017-08-21T06:51:07.488Z'
+dateModified: '2017-08-21T06:51:06.956Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-06-17-the-motherboard-bitcoin-and-ethereum-primer.md
@@ -35,6 +35,6 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/696b495d9eac72b23497909b0ead6899/croprotate.jpeg?cropheight=675&amp;cropwidth=892&amp;degrees=0&amp;input=https%3A%2F%2Fvideo-images.vice.com%2Farticles%2F59431309df10a05676b8f847%2Flede%2F1497612065665-shutterstock_653153323.jpeg%3Fcrop%3D1xw%3A0.8364312267657993xh%3Bcenter%2Ccenter%26resize%3D1200%3A*&amp;x=149&amp;y=0" /><h1>The Motherboard Bitcoin and Ethereum Primer</h1><p>In the eight years since the anonymous Satoshi Nakamoto released bitcoin into the world, a number of other cryptocurrencies have come and gone. Today, Bitcoin and Ethereum are the two largest cryptocurrencies in the world by a large margin. Many programmers, investors, companies and lay people are convinced that these blockchain-based currencies have the potential to change the world in myriad different ways.</p></article>
+<article style=""><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/696b495d9eac72b23497909b0ead6899/croprotate.jpeg?cropheight=675&amp;cropwidth=892&amp;degrees=0&amp;input=https%3A%2F%2Fvideo-images.vice.com%2Farticles%2F59431309df10a05676b8f847%2Flede%2F1497612065665-shutterstock_653153323.jpeg%3Fcrop%3D1xw%3A0.8364312267657993xh%3Bcenter%2Ccenter%26resize%3D1200%3A%2A&amp;x=149&amp;y=0" /><h1>The Motherboard Bitcoin and Ethereum Primer</h1><p>In the eight years since the anonymous Satoshi Nakamoto released bitcoin into the world, a number of other cryptocurrencies have come and gone. Today, Bitcoin and Ethereum are the two largest cryptocurrencies in the world by a large margin. Many programmers, investors, companies and lay people are convinced that these blockchain-based currencies have the potential to change the world in myriad different ways.</p></article>
 
 2017.06.16
