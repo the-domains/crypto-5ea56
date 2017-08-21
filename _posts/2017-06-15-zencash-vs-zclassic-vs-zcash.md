@@ -19,8 +19,8 @@ description: >-
 app_links: []
 isBasedOnUrl: 'https://themerkle.com/zencash-vs-zclassic-vs-zcash/'
 title: ZenCash vs ZClassic vs ZCash
-datePublished: '2017-06-17T15:10:16.465Z'
-dateModified: '2017-06-17T15:10:15.883Z'
+datePublished: '2017-08-21T06:37:13.069Z'
+dateModified: '2017-08-21T06:37:12.700Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-06-15-zencash-vs-zclassic-vs-zcash.md
