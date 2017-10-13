@@ -22,8 +22,8 @@ keywords:
 description: 2017.06.16
 app_links: []
 title: The Motherboard Bitcoin and Ethereum Primer
-datePublished: '2017-08-21T06:54:30.617Z'
-dateModified: '2017-08-21T06:54:29.968Z'
+datePublished: '2017-10-13T18:08:12.857Z'
+dateModified: '2017-10-13T18:08:11.994Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-06-17-the-motherboard-bitcoin-and-ethereum-primer.md
