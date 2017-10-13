@@ -1,6 +1,6 @@
 ---
 title: Cryptoeconomics 101 - The Control
-dateModified: '2017-08-21T06:37:12.700Z'
+dateModified: '2017-10-13T18:06:16.019Z'
 publisher: {}
 author:
   - name: Nick Tomaino
@@ -9,7 +9,7 @@ author:
 inFeed: true
 description: Click to read the full article
 via: {}
-datePublished: '2017-08-21T06:37:13.082Z'
+datePublished: '2017-10-13T18:06:16.651Z'
 hasPage: true
 sourcePath: _posts/2017-06-16-cryptoeconomics-101-the-control.md
 starred: false
