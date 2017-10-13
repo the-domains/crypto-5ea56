@@ -44,13 +44,13 @@ app_links:
     type: android
 isBasedOnUrl: 'https://medium.com/@linda.xie/a-beginners-guide-to-tezos-c9618240183f'
 title: A beginner's guide to Tezos - Linda Xie - Medium
-datePublished: '2017-10-13T18:07:26.337Z'
-dateModified: '2017-10-13T18:07:15.930Z'
-datePublishedOriginal: '2017-10-13T18:07:26.337Z'
+datePublished: '2017-10-13T18:08:12.853Z'
+dateModified: '2017-10-13T18:08:11.994Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-10-13-a-beginners-guide-to-tezos-linda-xie-medium.md
+starred: false
+datePublishedOriginal: '2017-10-13T18:07:26.337Z'
 _type: Article
 _context: 'http://schema.org'
 
