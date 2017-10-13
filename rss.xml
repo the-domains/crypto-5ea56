@@ -4,12 +4,12 @@
         <description><![CDATA[Blockchain & Crypto Economics]]></description>
         <link>http://crypto.think-like.me/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 13 Oct 2017 18:08:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Oct 2017 18:08:37 GMT</lastBuildDate>
         <atom:link href="http://crypto.think-like.me/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 13 Oct 2017 18:07:44 GMT</pubDate>
+        <pubDate>Fri, 13 Oct 2017 18:08:28 GMT</pubDate>
         <item>
             <title><![CDATA[What is Blockchain?]]></title>
-            <description><![CDATA[<h1><strong>What is Blockchain?</strong></h1>,<p>Bitcoin is being touted as a possible new economic foundation, but what is actually making Bitcoin and other crypto currencies work? You might have heard about something called the blockchain. To cut it short a blockchain is a public ledger distributed across a decentralized network of computers.</p>,<p>In this post I have tried to collect a number of useful whitepapers, articles and blogs explaining the Blockchain concept. I hope you will find it useful and learn a thing or two about blockchain technology</p>,<p>The article below from CoinDesk is a good guide for people who wants to know more about bitcoin and blockchain. In the end of this article CoinDesk have provided a number of very useful links for diving deeper into the crypto world.</p>,<article><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8a1032d7a6d3522402221aba28df9500ac5388b2.jpg"><h1>Beginner&apos;s guide to bitcoin</h1><p>&quot;The practical consequence [...is...] for the first time, a way for one Internet user to transfer a unique piece of digital property to another Internet user, such that the transfer is guaranteed to be safe and secure, everyone knows that the transfer has taken place, and nobody can challenge the legitimacy of the transfer.</p></article>,<p>The following video is slightly technical, but with visualization of how blockchains work and how new entries are posted to the ledger it will give a good understanding of how blockchains work:</p>,<p>I will continue to add links to this post as I find them. In the meantime these are good links to get a basic understanding of the underlying technology for crypto currencies such as Bitcoin.</p>]]></description>
+            <description><![CDATA[<h1><strong>What is Blockchain?</strong></h1>,<p>Bitcoin is being touted as a possible new economic foundation, but what is actually making Bitcoin and other crypto currencies work? You might have heard about something called the blockchain. To cut it short a blockchain is a public ledger distributed across a decentralized network of computers.</p>,<p>In this post I have tried to collect a number of useful whitepapers, articles and blogs explaining the Blockchain concept. I hope you will find it useful and learn a thing or two about blockchain technology</p>,<p>The article below from CoinDesk is a good guide for people who wants to know more about bitcoin and blockchain. In the end of this article CoinDesk have provided a number of very useful links for diving deeper into the crypto world.</p>,<p><a href="https://www.coindesk.com/information/what-is-blockchain-technology/" title="Click to read full article">Click to read full article..</a></p>]]></description>
             <link>http://crypto.think-like.me/beginners-guide-to-bitcoin/index.html</link>
             <guid isPermaLink="false">18a37c89-a473-405c-918f-7b85eb564f47</guid>
             <pubDate>Thu, 15 Jun 2017 15:43:15 GMT</pubDate>
@@ -43,6 +43,13 @@
             <pubDate>Sat, 17 Jun 2017 15:08:03 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[A beginner's guide to Tezos - Linda Xie - Medium]]></title>
+            <description><![CDATA[<article><h1>A beginner&apos;s guide to Tezos - Linda Xie - Medium</h1><p>According to the Tezos (&quot;Tay-zos&quot;) website, &quot;Tezos is a new decentralized blockchain that governs itself by establishing a true digital commonwealth.&quot; A commonwealth is a group that chooses to be linked together because of their shared goals and interests. Tezos aims to have their token holders make decisions together to govern the platform and improve it over time.</p><img src="https://cdn-images-1.medium.com/max/1600/1*cLjDJYqI1_3cOMPmVCLIAw.png"></article>]]></description>
+            <link>https://medium.com/@linda.xie/a-beginners-guide-to-tezos-c9618240183f</link>
+            <guid isPermaLink="false">a6a97eca-be97-4070-9204-1bf6627867bb</guid>
+            <pubDate>Fri, 13 Oct 2017 18:07:26 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Traders Plan for Correction as Cryptocurrency Market Tops $100 Billion - CoinDesk]]></title>
             <description><![CDATA[<article><h1>Traders Plan for Correction as Cryptocurrency Market Tops $100 Billion - CoinDesk</h1><p>The total value of all publicly traded cryptocurrencies may be at an all-time high, but trader confidence isn&apos;t keeping pace. After rising more than 1,500% from just over $7bn on 1st January, the market is beginning to show signs that its rapid ascent in 2017 may be slowing.</p><img src="https://media.coindesk.com/uploads/2017/06/shutterstock_637929982.jpg"></article>]]></description>
             <link>http://www.coindesk.com/traders-plan-correction-cryptocurrency-market-tops-100-billion/</link>
@@ -64,18 +71,11 @@
             <pubDate>Thu, 15 Jun 2017 15:32:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[What we learned from designing an academic certificates system on the blockchain]]></title>
-            <description><![CDATA[<article><h1>What we learned from designing an academic certificates system on the blockchain</h1><p>Over the past year, we have been working on a set of tools to issue, display, and verify digital credentials using the Bitcoin blockchain and the open badges specification. Today we are releasing version 1 of our code under the MIT open-source license to make it easier for others to start experimenting with similar ideas.</p><img src="https://cdn-images-1.medium.com/max/1200/0*LcgQy9J55lxVbGIU."></article>]]></description>
-            <link>https://medium.com/mit-media-lab/what-we-learned-from-designing-an-academic-certificates-system-on-the-blockchain-34ba5874f196</link>
-            <guid isPermaLink="false">193618a7-334d-4ab9-b94f-c2ef6814e7c2</guid>
-            <pubDate>Thu, 15 Jun 2017 17:05:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How the Russians used quantum mechanics to secure blockchains]]></title>
-            <description><![CDATA[<article><h1>How the Russians used quantum mechanics to secure blockchains</h1><p>Interest in cryptocurrencies is currently at fever pitch with banks, businesses, and governments racing to understand the technology and how they can exploit it. As a result, the cryptocurrency market has begun to rise exponentially, and last month reached an astonishing $90 billion in market capitalization.</p><img src="https://d267cvn3rvuq91.cloudfront.net/i/images/quantum-blockchain.jpg?cx=0&cy=15&cw=600&ch=337&sw=1200"></article>]]></description>
-            <link>https://www.technologyreview.com/s/608041/first-quantum-secured-blockchain-technology-tested-in-moscow/</link>
-            <guid isPermaLink="false">c3b51894-9385-4995-b36f-e0958394b17e</guid>
-            <pubDate>Sat, 17 Jun 2017 05:21:44 GMT</pubDate>
+            <title><![CDATA["That's not Bitcoin, this is Bitcoin." - Hacker Noon]]></title>
+            <description><![CDATA[<article><h1>&quot;That&apos;s not Bitcoin, this is Bitcoin.&quot; - Hacker Noon</h1><p>This became much longer than I originally planned. There&apos;s a lot of information here that is definitely worth reading, especially if you&apos;re new to the community. Whether you already agree with me or not, I recommend reading this so you can pass it on to future members of the community.</p><img src="https://cdn-images-1.medium.com/max/1200/1*blW4SQyFmTq0Oice3lDBsA.jpeg"></article>]]></description>
+            <link>https://hackernoon.com/thats-not-bitcoin-this-is-bitcoin-95f05a6fd6c2</link>
+            <guid isPermaLink="false">c12f3167-04cd-4647-ba78-9bc08201e797</guid>
+            <pubDate>Fri, 13 Oct 2017 18:07:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
