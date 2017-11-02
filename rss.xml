@@ -4,15 +4,22 @@
         <description><![CDATA[Blockchain & Crypto Economics]]></description>
         <link>http://crypto.think-like.me/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 02 Nov 2017 02:52:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Nov 2017 02:56:59 GMT</lastBuildDate>
         <atom:link href="http://crypto.think-like.me/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 02 Nov 2017 02:52:50 GMT</pubDate>
+        <pubDate>Thu, 02 Nov 2017 02:56:55 GMT</pubDate>
         <item>
             <title><![CDATA[What is Blockchain?]]></title>
             <description><![CDATA[<h1><strong>What is Blockchain?</strong></h1>,<p>Bitcoin is being touted as a possible new economic foundation, but what is actually making Bitcoin and other crypto currencies work? You might have heard about something called the blockchain. To cut it short a blockchain is a public ledger distributed across a decentralized network of computers.</p>,<p>In this post I have tried to collect a number of useful whitepapers, articles and blogs explaining the Blockchain concept. I hope you will find it useful and learn a thing or two about blockchain technology</p>,<p>The article below from CoinDesk is a good guide for people who wants to know more about bitcoin and blockchain. In the end of this article CoinDesk have provided a number of very useful links for diving deeper into the crypto world.</p>,<p><a href="https://www.coindesk.com/information/what-is-blockchain-technology/" title="Click to read full article">Click to read full article..</a></p>]]></description>
             <link>http://crypto.think-like.me/beginners-guide-to-bitcoin/index.html</link>
             <guid isPermaLink="false">18a37c89-a473-405c-918f-7b85eb564f47</guid>
             <pubDate>Thu, 15 Jun 2017 15:43:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I Looked Into SegWit, and Here's What I Saw - Steemit]]></title>
+            <description><![CDATA[<article><h1>I Looked Into SegWit, and Here&apos;s What I Saw - Steemit</h1><p>In light of the upcoming Bitcoin fork, I finally decided to look into exactly what Segwit is, and form my opinions based on the technical and economic realities, rather than opinions and impressions I&apos;ve found online. In this post, I will share what I learned.</p><img src="https://steemitimages.com/DQmZPuWgWLogGPZNdtKsnUfdANvhACWXQeR4AswjqfrnTr6/truck.jpeg"></article>]]></description>
+            <link>https://steemit.com/bitcoin/@modprobe/i-looked-into-segwit-and-here-s-what-i-saw</link>
+            <guid isPermaLink="false">9979c3d1-20f7-456d-b044-94947eb52261</guid>
+            <pubDate>Thu, 02 Nov 2017 02:52:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Motherboard Bitcoin and Ethereum Primer]]></title>
@@ -69,13 +76,6 @@
             <link>https://themerkle.com/zencash-vs-zclassic-vs-zcash/</link>
             <guid isPermaLink="false">55ac7a8c-f3b9-4c3b-84c0-8965884e3be2</guid>
             <pubDate>Thu, 15 Jun 2017 15:32:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA["That's not Bitcoin, this is Bitcoin." - Hacker Noon]]></title>
-            <description><![CDATA[<article><h1>&quot;That&apos;s not Bitcoin, this is Bitcoin.&quot; - Hacker Noon</h1><p>This became much longer than I originally planned. There&apos;s a lot of information here that is definitely worth reading, especially if you&apos;re new to the community. Whether you already agree with me or not, I recommend reading this so you can pass it on to future members of the community.</p><img src="https://cdn-images-1.medium.com/max/1200/1*blW4SQyFmTq0Oice3lDBsA.jpeg"></article>]]></description>
-            <link>https://hackernoon.com/thats-not-bitcoin-this-is-bitcoin-95f05a6fd6c2</link>
-            <guid isPermaLink="false">c12f3167-04cd-4647-ba78-9bc08201e797</guid>
-            <pubDate>Fri, 13 Oct 2017 18:07:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
