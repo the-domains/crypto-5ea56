@@ -1,6 +1,6 @@
 ---
 title: 'Ethereum: Bitcoin Plus Everything - ConsenSys - Medium'
-dateModified: '2017-10-13T18:08:11.994Z'
+dateModified: '2017-11-02T02:56:40.154Z'
 publisher: {}
 author:
   - name: ConsenSys
@@ -10,7 +10,7 @@ inFeed: true
 hasPage: false
 description: 2016.01.06
 via: {}
-datePublished: '2017-10-13T18:08:12.895Z'
+datePublished: '2017-11-02T02:56:40.823Z'
 isBasedOnUrl: 'https://medium.com/@ConsenSys/ethereum-bitcoin-plus-everything-a506dc780106'
 sourcePath: _posts/2017-07-04-ethereum-bitcoin-plus-everything-consensys-medium.md
 starred: false
