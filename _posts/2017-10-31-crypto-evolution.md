@@ -1,6 +1,6 @@
 ---
 title: Crypto Evolution
-dateModified: '2017-10-31T05:39:59.424Z'
+dateModified: '2017-11-19T00:30:22.915Z'
 publisher: {}
 author:
   - name: Ramon Recuero
@@ -10,10 +10,10 @@ inFeed: true
 hasPage: true
 description: 2017.10.30 - Why does Blockchains Fork?
 via: {}
-datePublished: '2017-10-31T05:41:27.997Z'
+datePublished: '2017-11-19T00:30:24.647Z'
+sourcePath: _posts/2017-10-31-crypto-evolution.md
 starred: false
 datePublishedOriginal: '2017-10-31T05:41:27.997Z'
-sourcePath: _posts/2017-10-31-crypto-evolution.md
 url: crypto-evolution/index.html
 _type: Article
 _context: 'http://schema.org'
