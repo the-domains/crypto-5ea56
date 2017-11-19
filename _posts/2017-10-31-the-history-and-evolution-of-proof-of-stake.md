@@ -25,13 +25,13 @@ description: >-
 app_links: []
 isBasedOnUrl: 'https://www.cointelegraph.com/news/the-history-and-evolution-of-proof-of-stake'
 title: The History and Evolution of Proof of Stake
-datePublished: '2017-10-31T05:36:17.995Z'
-dateModified: '2017-10-16T05:59:31.723Z'
-datePublishedOriginal: '2017-10-31T05:36:17.995Z'
+datePublished: '2017-11-19T00:30:24.645Z'
+dateModified: '2017-11-19T00:30:22.915Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-10-31-the-history-and-evolution-of-proof-of-stake.md
+starred: false
+datePublishedOriginal: '2017-10-31T05:36:17.995Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
