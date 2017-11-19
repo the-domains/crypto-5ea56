@@ -4,15 +4,22 @@
         <description><![CDATA[Blockchain & Crypto Economics]]></description>
         <link>http://crypto.think-like.me/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 19 Nov 2017 00:29:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Nov 2017 00:30:56 GMT</lastBuildDate>
         <atom:link href="http://crypto.think-like.me/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 19 Nov 2017 00:29:12 GMT</pubDate>
+        <pubDate>Sun, 19 Nov 2017 00:30:51 GMT</pubDate>
         <item>
             <title><![CDATA[What is Blockchain?]]></title>
             <description><![CDATA[<h1><strong>What is Blockchain?</strong></h1>,<p>Bitcoin is being touted as a possible new economic foundation, but what is actually making Bitcoin and other crypto currencies work? You might have heard about something called the blockchain. To cut it short a blockchain is a public ledger distributed across a decentralized network of computers.</p>,<p>In this post I have tried to collect a number of useful whitepapers, articles and blogs explaining the Blockchain concept. I hope you will find it useful and learn a thing or two about blockchain technology</p>,<p>The article below from CoinDesk is a good guide for people who wants to know more about bitcoin and blockchain. In the end of this article CoinDesk have provided a number of very useful links for diving deeper into the crypto world.</p>,<p><a href="https://www.coindesk.com/information/what-is-blockchain-technology/" title="Click to read full article">Click to read full article..</a></p>]]></description>
             <link>http://crypto.think-like.me/beginners-guide-to-bitcoin/index.html</link>
             <guid isPermaLink="false">18a37c89-a473-405c-918f-7b85eb564f47</guid>
             <pubDate>Thu, 15 Jun 2017 15:43:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ethereum - The machinery of change - Stork and Crow BV - Medium]]></title>
+            <description><![CDATA[<article><h1>Ethereum - The machinery of change - Stork and Crow BV - Medium</h1><p>You wake up, and see that $17.27 was automatically deducted from your primary wallet, as you had authorized to happen every day, to pay the rent for your apartment.</p><img src="https://cdn-images-1.medium.com/max/2000/0*0GIMZbPL3szzmKRm.jpg"></article>]]></description>
+            <link>https://medium.com/@jpa_of_snc/ethereum-the-machinery-of-change-60de08222480</link>
+            <guid isPermaLink="false">8ef0df26-fa5e-4540-af95-e2ccfeaf1d13</guid>
+            <pubDate>Sun, 19 Nov 2017 00:25:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[I Looked Into SegWit, and Here's What I Saw - Steemit]]></title>
@@ -69,13 +76,6 @@
             <link>https://medium.com/@JiuCrypto/thinking-out-loud-about-pos-coins-and-passive-income-in-crypto-101e6735b651</link>
             <guid isPermaLink="false">0d50ea22-0a5c-447f-ae60-b8fe08ba40af</guid>
             <pubDate>Mon, 21 Aug 2017 06:23:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ZenCash vs ZClassic vs ZCash]]></title>
-            <description><![CDATA[<article><h1>ZenCash vs ZClassic vs ZCash</h1><p>We often see new cryptocurrencies being created due to hard forking an existing project. One of the latest projects to do so goes by the name of ZenCash, a privacy-centric coin which is directly hard-forked from ZClassic, which is a fork from ZCash.</p><img src="https://themerkle.com/wp-content/uploads/2017/06/shutterstock_376175815.jpg"></article>]]></description>
-            <link>https://themerkle.com/zencash-vs-zclassic-vs-zcash/</link>
-            <guid isPermaLink="false">55ac7a8c-f3b9-4c3b-84c0-8965884e3be2</guid>
-            <pubDate>Thu, 15 Jun 2017 15:32:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
