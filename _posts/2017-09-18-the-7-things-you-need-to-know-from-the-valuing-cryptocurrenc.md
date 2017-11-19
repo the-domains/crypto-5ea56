@@ -46,14 +46,14 @@ app_links:
 isBasedOnUrl: >-
   https://hackernoon.com/the-7-things-you-need-to-know-from-the-valuing-cryptocurrency-conference-call-c238095a03b9
 title: The 7 Things You Need To Know From The Valuing Cryptocurrency Conference Call
-datePublished: '2017-09-18T03:15:32.530Z'
-dateModified: '2017-09-18T01:01:17.604Z'
-datePublishedOriginal: '2017-09-18T03:15:32.530Z'
+datePublished: '2017-11-19T00:30:24.648Z'
+dateModified: '2017-11-19T00:30:22.915Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: >-
   _posts/2017-09-18-the-7-things-you-need-to-know-from-the-valuing-cryptocurrenc.md
+starred: false
+datePublishedOriginal: '2017-09-18T03:15:32.530Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
