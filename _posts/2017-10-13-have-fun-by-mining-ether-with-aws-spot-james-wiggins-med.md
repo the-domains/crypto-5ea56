@@ -44,8 +44,8 @@ app_links:
 isBasedOnUrl: >-
   https://medium.com/@james.s.wiggins/get-rich-quick-by-mining-ether-with-aws-spot-c7b7a3bdc149
 title: Have Fun by Mining Ether with AWS Spot - James Wiggins - Medium
-datePublished: '2017-11-02T02:56:40.768Z'
-dateModified: '2017-11-02T02:56:40.154Z'
+datePublished: '2017-11-19T00:30:24.492Z'
+dateModified: '2017-11-19T00:30:22.915Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-10-13-have-fun-by-mining-ether-with-aws-spot-james-wiggins-med.md
