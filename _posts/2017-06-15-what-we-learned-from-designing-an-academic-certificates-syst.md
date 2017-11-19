@@ -48,8 +48,8 @@ isBasedOnUrl: >-
 title: >-
   What we learned from designing an academic certificates system on the
   blockchain
-datePublished: '2017-11-02T02:56:40.769Z'
-dateModified: '2017-11-02T02:56:40.154Z'
+datePublished: '2017-11-19T00:30:24.621Z'
+dateModified: '2017-11-19T00:30:22.915Z'
 via: {}
 inFeed: true
 sourcePath: >-
