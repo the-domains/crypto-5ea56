@@ -25,13 +25,13 @@ description: >-
 app_links: []
 isBasedOnUrl: 'https://cointelegraph.com/news/your-wallet-your-freedom-expert-blog'
 title: 'Your wallet, your freedom: Expert Blog'
-datePublished: '2017-11-19T00:29:11.198Z'
-dateModified: '2017-11-19T00:29:02.182Z'
-datePublishedOriginal: '2017-11-19T00:29:11.198Z'
+datePublished: '2017-11-19T00:30:24.632Z'
+dateModified: '2017-11-19T00:30:22.915Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-11-19-your-wallet-your-freedom-expert-blog.md
+starred: false
+datePublishedOriginal: '2017-11-19T00:29:11.198Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
