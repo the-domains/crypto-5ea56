@@ -16,13 +16,13 @@ description: >-
 app_links: []
 isBasedOnUrl: 'http://www.spacesuitx.org/'
 title: SpacesuitX Analysis Overall Score
-datePublished: '2017-10-22T20:43:58.325Z'
-dateModified: '2017-10-22T20:43:54.203Z'
-datePublishedOriginal: '2017-10-22T20:43:58.325Z'
+datePublished: '2017-11-19T00:30:24.646Z'
+dateModified: '2017-11-19T00:30:22.915Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-10-22-spacesuitx-analysis-overall-score.md
+starred: false
+datePublishedOriginal: '2017-10-22T20:43:58.325Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
