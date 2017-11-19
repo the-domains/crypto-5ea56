@@ -30,8 +30,8 @@ isBasedOnUrl: >-
 title: >-
   Traders Plan for Correction as Cryptocurrency Market Tops $100 Billion -
   CoinDesk
-datePublished: '2017-11-02T02:56:40.821Z'
-dateModified: '2017-11-02T02:56:40.154Z'
+datePublished: '2017-11-19T00:30:24.404Z'
+dateModified: '2017-11-19T00:30:22.915Z'
 via: {}
 inFeed: true
 sourcePath: >-
