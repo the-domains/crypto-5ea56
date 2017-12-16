@@ -4,8 +4,8 @@ description: >-
   To begin investing in crypto currencies the easiest and most convenient way is
   creating an account on Coinbase where you can buy either Bitcoin, Ethereum or
   Litecoin.
-dateModified: '2017-12-16T02:53:06.265Z'
-datePublished: '2017-12-16T02:53:06.760Z'
+dateModified: '2017-12-16T02:56:45.133Z'
+datePublished: '2017-12-16T02:56:46.369Z'
 title: 'How to get started with investing in crypto currencies:'
 author: []
 publisher:
