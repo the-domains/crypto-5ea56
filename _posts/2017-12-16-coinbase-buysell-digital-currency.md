@@ -4,8 +4,8 @@ description: >-
 
   To begin investing in crypto currencies is in fact very simple. It is almost
   as easy as placing an order on Amazon or any other online webshop.
-dateModified: '2017-12-16T05:18:59.714Z'
-datePublished: '2017-12-16T05:19:00.589Z'
+dateModified: '2017-12-16T05:21:48.928Z'
+datePublished: '2017-12-16T05:21:49.740Z'
 title: 'How to begin investing in crypto currencies:'
 author: []
 publisher: {}
@@ -74,7 +74,9 @@ As seen below scroll down until you see your ETH Wallet and click on (1) Send. N
 
 Select the number of ETH you want to send to your Binance account, and in Note (3) I like to put a comment on each transfer I make in order to more easily remember what each transfer was for.
 
-Once you have verified (check, check and double check) that you have entered the correct ETH address you click Continue.
+_**Check, Check & Double Check**_ (If you send to the wrong address your coins will be lost) that you have entered the correct ETH address before you click Continue.
+
+> Check, Check & Double Check (If you send to the wrong address your coins will be lost). 
 
 You will get a confirmation when your ETH has been sent. It can take up to several minutes before you will see your ETH on your Binance accunt, depending on how congested the network is. If you have any questions to this feel free to PM me. 
 
