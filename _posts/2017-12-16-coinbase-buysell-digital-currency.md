@@ -1,11 +1,10 @@
 ---
 inFeed: true
 description: >-
-
   To begin investing in crypto currencies is in fact very simple. It is almost
   as easy as placing an order on Amazon or any other online webshop.
-dateModified: '2017-12-16T05:21:48.928Z'
-datePublished: '2017-12-16T05:21:49.740Z'
+dateModified: '2017-12-16T05:28:49.938Z'
+datePublished: '2017-12-16T05:28:50.899Z'
 title: 'How to begin investing in crypto currencies:'
 author: []
 publisher: {}
@@ -20,14 +19,13 @@ _type: Article
 ---
 # How to begin investing in crypto currencies:
 
-## The Easy Way
+# The Easy Way
 
 To begin investing in crypto currencies is in fact very simple. It is almost as easy as placing an order on Amazon or any other online webshop.
 
 The easiest and most convenient way is creating an account on Coinbase where you can buy either Bitcoin (BTC), Ethereum (ETH) or Litecoin (LTC) directly with your credit card, or by sending money to your account via a normal bank transfer.
 
-Coinbase -- 
-Coinbase lets you invest in the three most popular crypto currencies at the moment, and it is a good way for you to get your feet wet in the crypto world. 
+Coinbase -- Coinbase lets you invest in the three most popular crypto currencies at the moment, and it is a good way for you to get your feet wet in the crypto world.
 
 Use this link when you sign up to **get $10 worth of BTC **when you make your first purchase of any coin for at least $100: [https://www.coinbase.com/join/56c1a428f892ad2729000158][0]
 
@@ -39,7 +37,7 @@ If you want to trade other coins that are not on Coinbase you will still need to
 
 ### Binance --
 
-Binance has become my \#1 trading platform. They are fast to add new coins, they have a good trading volume, and they have been good at supporting hard forks (what not many exchanges does i.e. Coinbase & Poloniex -- this means that you will get free coins when a blockchain is going through a hard fork). I recommend that you create an account here as your first exchange. 
+Binance has become my \#1 trading platform. They are fast to add new coins, they have a good trading volume, and they have been good at supporting hard forks (what not many exchanges does i.e. Coinbase & Poloniex -- this means that you will get free coins when a blockchain is going through a hard fork). I recommend that you create an account here as your first exchange.
 
 Sign up here using my referral link: [https://www.binance.com/?ref=11019906][1]
 
@@ -48,9 +46,15 @@ Sign up here using my referral link: [https://www.binance.com/?ref=11019906][1]
 My \#2 (used to be my \#1) trading platform is Poloniex. Poloniex is a well known, high volume US based exchange. They have a number of well established coins a, and a simple to use charting. If you don't care to invest in newer coins Poloniex will be good for you. Poloniex has to my dissatisfaction NOT been supporting most of the hard forks you might have heard about in the recent weeks (afaik they only supported the Bitcoin Cash hard fork). Poloniex require you to do some verification (e.g. US citizens need to add their SSN).
 
 In addition to these two exchanges there are a vast number of exchanges out there. There is no harm in signing up to multiple exchanges, so you can sign up to them all and find out, which you like the most. Here is a list of other exchanges that I use more infrequently:  
-[www.coinexchange.io][2][www.cryptopia.co.nz][3][www.bittrex.com][4][www.bitfinex.com][5] (not open US citizens anymore)
+[www.coinexchange.io][2]
 
-There are many other exchanges out there, but I have only listed the above, because these are the ones I have found to be most trustworthy and in the better end of the security-scale. 
+[www.cryptopia.co.nz][3]
+
+[www.bittrex.com][4]
+
+[www.bitfinex.com][5] (not open US citizens anymore)
+
+There are many other exchanges out there, but I have only listed the above, because these are the ones I have found to be most trustworthy and in the better end of the security-scale.
 
 ## Step-By-Step Guide to Transfer Your Coins to an Exchange
 
@@ -78,11 +82,11 @@ _**Check, Check & Double Check**_ (If you send to the wrong address your coins w
 
 > Check, Check & Double Check (If you send to the wrong address your coins will be lost). 
 
-You will get a confirmation when your ETH has been sent. It can take up to several minutes before you will see your ETH on your Binance accunt, depending on how congested the network is. If you have any questions to this feel free to PM me. 
+You will get a confirmation when your ETH has been sent. It can take up to several minutes before you will see your ETH on your Binance accunt, depending on how congested the network is. If you have any questions to this feel free to PM me.
 
-When your ETH gets into your Binance account you are ready to invest in one of the many alt coins that Binance has listed (I will make another post regarding how you trade on Binance -- until then please PM me with any questions). 
+When your ETH gets into your Binance account you are ready to invest in one of the many alt coins that Binance has listed (I will make another post regarding how you trade on Binance -- until then please PM me with any questions).
 
-Remember that in the crypto-world it is almost impossible to guarantee total safety of your investments, however there are different steps you can take to prevent hacks and lost coins (money). I will create a post regarding that later, and post the link here. 
+Remember that in the crypto-world it is almost impossible to guarantee total safety of your investments, however there are different steps you can take to prevent hacks and lost coins (money). I will create a post regarding that later, and post the link here.
 
 Until then please PM me for any questions.
 
