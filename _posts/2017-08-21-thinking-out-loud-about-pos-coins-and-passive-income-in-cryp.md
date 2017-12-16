@@ -41,8 +41,8 @@ app_links:
 isBasedOnUrl: >-
   https://medium.com/@JiuCrypto/thinking-out-loud-about-pos-coins-and-passive-income-in-crypto-101e6735b651
 title: Thinking out loud about POS coins and passive income in crypto
-datePublished: '2017-11-19T00:30:24.541Z'
-dateModified: '2017-11-19T00:30:22.915Z'
+datePublished: '2017-12-16T02:56:46.260Z'
+dateModified: '2017-12-16T02:56:45.133Z'
 via: {}
 inFeed: true
 sourcePath: >-
