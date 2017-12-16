@@ -4,8 +4,8 @@ description: >-
   To begin investing in crypto currencies the easiest and most convenient way is
   creating an account on Coinbase where you can buy either Bitcoin, Ethereum or
   Litecoin.
-dateModified: '2017-12-16T02:56:45.133Z'
-datePublished: '2017-12-16T02:56:46.369Z'
+dateModified: '2017-12-16T02:57:29.021Z'
+datePublished: '2017-12-16T02:57:29.626Z'
 title: 'How to get started with investing in crypto currencies:'
 author: []
 publisher:
@@ -34,7 +34,7 @@ Coinbase lets you invest in the three most popular crypto currencies at the mome
 
 **Binance **-- Binance has become my \#1 trading platform. They are fast to add new coins, they have a good trading volume, and they have been good at supporting hard forks (what not many exchanges does i.e. Coinbase & Poloniex -- this means that you will get free coins when a blockchain is going through a hard fork). Please follow this link to sign up:
 
-<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/381e08a9cc6067d75ff4e662dc35243f569f9315.png" /><h1>{{webtitle}} - {{'binancetitle'| T}}</h1><p>币安（Binance)是一个区块链数字资产交易平台,引领币币交易创新模式,提供比特币、以太坊、莱特币、币安币等主流虚拟数字货币交易.为用户打造区块链资产交易平台,数字货币交易平台,虚拟货币交易平台,提供BTC交易,ETH交易,LTC交易,BNB交易,小蚁股NEO交易,提供虚拟货币行情接口,致力于为数字货币的爱好者提供一个安全、公平、开放、高效的币币交易平台.</p></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/381e08a9cc6067d75ff4e662dc35243f569f9315.png" /><h1>Binance</h1></article>
 
 **Poloniex** - My \#2 (used to be my \#1) trading platform is Poloniex. Poloniex is a well known, high volume US based exchange. They have a number of well established coins a, and a simple to use charting. If you don't care to invest in newer coins Poloniex will be good for you. Poloniex has to my dissatisfaction NOT been supporting most of the hard forks you might have heard about in the recent weeks (afaik they only supported the Bitcoin Cash hard fork). Poloniex require you to do some verification (e.g. US citizens need to add their SSN).
 
