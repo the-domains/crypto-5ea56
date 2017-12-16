@@ -29,8 +29,8 @@ description: >-
 app_links: []
 isBasedOnUrl: 'https://www.coindesk.com/icos-terms-conditions/'
 title: ICOs on Our Terms and Conditions - CoinDesk
-datePublished: '2017-11-19T00:30:24.632Z'
-dateModified: '2017-11-19T00:30:22.915Z'
+datePublished: '2017-12-16T02:56:46.360Z'
+dateModified: '2017-12-16T02:56:45.133Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-11-19-icos-on-our-terms-and-conditions-coindesk.md
