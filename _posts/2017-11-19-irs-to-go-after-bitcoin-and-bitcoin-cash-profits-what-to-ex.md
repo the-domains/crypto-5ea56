@@ -24,8 +24,8 @@ app_links: []
 isBasedOnUrl: >-
   https://cointelegraph.com/news/irs-to-go-after-bitcoin-and-bitcoin-cash-profits-what-to-expect
 title: 'IRS To Go After Bitcoin and Bitcoin Cash Profits, What to Expect'
-datePublished: '2017-11-19T00:30:24.618Z'
-dateModified: '2017-11-19T00:30:22.915Z'
+datePublished: '2017-12-16T02:56:46.304Z'
+dateModified: '2017-12-16T02:56:45.133Z'
 via: {}
 inFeed: true
 sourcePath: >-
