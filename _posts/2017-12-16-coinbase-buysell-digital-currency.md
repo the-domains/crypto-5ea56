@@ -1,9 +1,12 @@
 ---
 inFeed: true
-description: 'How to get started:'
-dateModified: '2017-12-16T02:51:44.017Z'
-datePublished: '2017-12-16T02:51:44.639Z'
-title: Coinbase - Buy/Sell Digital Currency
+description: |-
+  To begin investing in crypto currencies the easiest and most
+  convenient way is creating an account on Coinbase where you can buy either
+  Bitcoin, Ethereum or Litecoin.
+dateModified: '2017-12-16T02:52:10.258Z'
+datePublished: '2017-12-16T02:52:10.955Z'
+title: 'How to get started:'
 author: []
 publisher:
   url: 'https://www.coinbase.com'
@@ -12,14 +15,14 @@ publisher:
   domain: www.coinbase.com
 via: {}
 hasPage: true
+sourcePath: _posts/2017-12-16-coinbase-buysell-digital-currency.md
 starred: false
 datePublishedOriginal: '2017-12-16T02:51:44.639Z'
-sourcePath: _posts/2017-12-16-coinbase-buysell-digital-currency.md
 url: coinbase-buysell-digital-currency/index.html
 _type: Article
 
 ---
-How to get started:
+# How to get started:
 
 To begin investing in crypto currencies the easiest and most
 convenient way is creating an account on Coinbase where you can buy either
