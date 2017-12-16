@@ -1,10 +1,10 @@
 ---
 inFeed: true
 description: >-
-  To begin investing in crypto currencies is in fact very simple. It is almost
+  To start investing in crypto currencies is in fact very simple. It is almost
   as easy as placing an order on Amazon or any other online webshop.
-dateModified: '2017-12-16T05:28:49.938Z'
-datePublished: '2017-12-16T05:28:50.899Z'
+dateModified: '2017-12-16T05:29:29.273Z'
+datePublished: '2017-12-16T05:29:29.895Z'
 title: 'How to begin investing in crypto currencies:'
 author: []
 publisher: {}
@@ -19,9 +19,7 @@ _type: Article
 ---
 # How to begin investing in crypto currencies:
 
-# The Easy Way
-
-To begin investing in crypto currencies is in fact very simple. It is almost as easy as placing an order on Amazon or any other online webshop.
+To start investing in crypto currencies is in fact very simple. It is almost as easy as placing an order on Amazon or any other online webshop.
 
 The easiest and most convenient way is creating an account on Coinbase where you can buy either Bitcoin (BTC), Ethereum (ETH) or Litecoin (LTC) directly with your credit card, or by sending money to your account via a normal bank transfer.
 
