@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   To start investing in crypto currencies is in fact very simple. It is almost
   as easy as placing an order on Amazon or any other online webshop.
-dateModified: '2017-12-16T05:30:37.283Z'
-datePublished: '2017-12-16T05:30:37.885Z'
+dateModified: '2017-12-16T05:31:54.605Z'
+datePublished: '2017-12-16T05:31:55.654Z'
 title: 'How to begin investing in crypto currencies:'
 author: []
 publisher: {}
@@ -29,19 +29,19 @@ Coinbase lets you invest in the three most popular crypto currencies at the mome
 
 Use this link when you sign up to _**get $10 worth of BTC**_****when you make your first purchase of any coin for at least $100: [https://www.coinbase.com/join/56c1a428f892ad2729000158][0]
 
-## Exchanges (and a vast number of different crypto currencies)
+# Exchanges (and a vast number of different crypto currencies)
 
 If you want to invest in others of the thousands of crypto currencies available, I recommend signing up for one of the following exchanges.
 
 If you want to trade other coins that are not on Coinbase you will still need to start with Coinbase. As of now that is one of the only ways to get your money into crypto currencies. In order to start buying and selling a wide variety of crypto currencies I recommend that you buy either BTC or ETH on your newly created Coinbase account. Next you will have to create an account on an exchange. Below is a little introduction to exchanges followed by a guide on how to fund your account on the exchange.
 
-### Binance --
+## Binance --
 
 Binance has become my \#1 trading platform. They are fast to add new coins, they have a good trading volume, and they have been good at supporting hard forks (what not many exchanges does i.e. Coinbase & Poloniex -- this means that you will get free coins when a blockchain is going through a hard fork). I recommend that you create an account here as your first exchange.
 
 Sign up here using my referral link: [https://www.binance.com/?ref=11019906][1]
 
-### Poloniex -
+## Poloniex -
 
 My \#2 (used to be my \#1) trading platform is Poloniex. Poloniex is a well known, high volume US based exchange. They have a number of well established coins a, and a simple to use charting. If you don't care to invest in newer coins Poloniex will be good for you. Poloniex has to my dissatisfaction NOT been supporting most of the hard forks you might have heard about in the recent weeks (afaik they only supported the Bitcoin Cash hard fork). Poloniex require you to do some verification (e.g. US citizens need to add their SSN).
 
@@ -56,7 +56,7 @@ In addition to these two exchanges there are a vast number of exchanges out ther
 
 There are many other exchanges out there, but I have only listed the above, because these are the ones I have found to be most trustworthy and in the better end of the security-scale.
 
-## Step-By-Step Guide to Transfer Your Coins to an Exchange
+# Step-By-Step Guide to Transfer Your Coins to an Exchange
 
 Now that you have an account on both Coinbase and the exchange of your liking I will teach you how to start trading on the exchanges. The following example will use Binance as the example, as that is my favorite exchange, (while it might be slightly different from exchange to exchange the same logic applies to the other exchanges (PM me if you have any questions). The example will also assume that you have bought ETH on Coinbase.
 
