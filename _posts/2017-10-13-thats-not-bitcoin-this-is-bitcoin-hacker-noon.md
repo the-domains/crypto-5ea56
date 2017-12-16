@@ -43,8 +43,8 @@ app_links:
     type: android
 isBasedOnUrl: 'https://hackernoon.com/thats-not-bitcoin-this-is-bitcoin-95f05a6fd6c2'
 title: '"That''s not Bitcoin, this is Bitcoin." - Hacker Noon'
-datePublished: '2017-11-19T00:30:24.620Z'
-dateModified: '2017-11-19T00:30:22.915Z'
+datePublished: '2017-12-16T02:56:46.306Z'
+dateModified: '2017-12-16T02:56:45.133Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-10-13-thats-not-bitcoin-this-is-bitcoin-hacker-noon.md
