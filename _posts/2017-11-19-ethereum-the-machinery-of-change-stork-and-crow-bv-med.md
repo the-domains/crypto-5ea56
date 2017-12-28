@@ -43,8 +43,8 @@ app_links:
     type: android
 isBasedOnUrl: 'https://medium.com/@jpa_of_snc/ethereum-the-machinery-of-change-60de08222480'
 title: Ethereum - The machinery of change - Stork and Crow BV - Medium
-datePublished: '2017-11-19T00:30:24.619Z'
-dateModified: '2017-11-19T00:30:22.915Z'
+datePublished: '2017-12-28T21:03:06.020Z'
+dateModified: '2017-12-28T21:03:04.835Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-11-19-ethereum-the-machinery-of-change-stork-and-crow-bv-med.md
