@@ -4,8 +4,8 @@ description: >-
   In this post I will try to give a quick and easy overview of the different
   elements you will see when you go to the basic Trading View on Binance. In
   another post I will explain the Advanced Trading View.
-dateModified: '2017-12-28T21:12:51.560Z'
-datePublished: '2017-12-28T21:12:52.463Z'
+dateModified: '2017-12-28T21:15:12.208Z'
+datePublished: '2017-12-28T21:15:12.916Z'
 title: Binance Trading View (Basic) - Beginners Guide
 author: []
 publisher: {}
@@ -23,6 +23,10 @@ _type: Article
 In this post I will try to give a quick and easy overview of the different elements you will see when you go to the basic Trading View on Binance. In another post I will explain the Advanced Trading View.
 
 I will try to give a short explanation for each of the elements numbered in the screenshot below (see screenshot after description).
+
+---
+
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7ae5e72f-7b25-46cc-8129-ca78c7d8b79b.png)
 
 1. You have the option to trade pairs with BTC, ETH, BNB or USDT. USDT is capped to the US $, so they theoretically should have the same value at any given time. This you can use to get an indication on how much your investment is worth at any given moment.
 2. Once you've selected your main coin in step 1 (BTC, ETH, BNB or USDT), you will now be able to select a coin you want to trade your main coin against. In the example you will see that BTC is selected as the main pair, and ADA/BTC is the pair selected.
