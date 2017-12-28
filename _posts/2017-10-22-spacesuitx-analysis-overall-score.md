@@ -16,8 +16,8 @@ description: >-
 app_links: []
 isBasedOnUrl: 'http://www.spacesuitx.org/'
 title: SpacesuitX Analysis Overall Score
-datePublished: '2017-12-16T02:56:46.377Z'
-dateModified: '2017-12-16T02:56:45.133Z'
+datePublished: '2017-12-28T20:47:34.048Z'
+dateModified: '2017-12-28T20:47:32.685Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-10-22-spacesuitx-analysis-overall-score.md
