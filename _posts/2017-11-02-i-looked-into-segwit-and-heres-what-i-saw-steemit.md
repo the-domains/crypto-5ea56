@@ -223,8 +223,8 @@ app_links: []
 isBasedOnUrl: >-
   https://steemit.com/bitcoin/@modprobe/i-looked-into-segwit-and-here-s-what-i-saw
 title: 'I Looked Into SegWit, and Here''s What I Saw - Steemit'
-datePublished: '2017-11-19T00:30:24.624Z'
-dateModified: '2017-11-19T00:30:22.915Z'
+datePublished: '2017-12-28T20:47:34.000Z'
+dateModified: '2017-12-28T20:47:32.685Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-11-02-i-looked-into-segwit-and-heres-what-i-saw-steemit.md
