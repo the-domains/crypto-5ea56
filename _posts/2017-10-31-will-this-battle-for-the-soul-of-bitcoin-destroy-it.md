@@ -21,8 +21,8 @@ app_links: []
 isBasedOnUrl: >-
   https://www.forbes.com/sites/laurashin/2017/10/23/will-this-battle-for-the-soul-of-bitcoin-destroy-it/
 title: Will This Battle For The Soul Of Bitcoin Destroy It?
-datePublished: '2017-12-16T02:56:46.359Z'
-dateModified: '2017-12-16T02:56:45.133Z'
+datePublished: '2017-12-28T20:47:34.049Z'
+dateModified: '2017-12-28T20:47:32.685Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-10-31-will-this-battle-for-the-soul-of-bitcoin-destroy-it.md
