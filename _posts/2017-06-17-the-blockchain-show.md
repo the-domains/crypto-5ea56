@@ -15,8 +15,8 @@ description: >-
   podcast to get the latest news about
 app_links: []
 title: The Blockchain Show
-datePublished: '2017-12-16T02:56:46.182Z'
-dateModified: '2017-12-16T02:56:45.133Z'
+datePublished: '2017-12-28T20:47:34.026Z'
+dateModified: '2017-12-28T20:47:32.685Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-06-17-the-blockchain-show.md
