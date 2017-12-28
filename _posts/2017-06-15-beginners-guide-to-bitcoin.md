@@ -1,7 +1,7 @@
 ---
 title: What is Blockchain?
-datePublished: '2017-11-19T00:30:24.405Z'
-dateModified: '2017-11-19T00:30:22.915Z'
+datePublished: '2017-12-28T21:03:06.038Z'
+dateModified: '2017-12-28T21:03:04.835Z'
 publisher:
   name: CoinDesk
   domain: www.coindesk.com
