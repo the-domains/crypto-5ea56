@@ -20,8 +20,8 @@ app_links: []
 isBasedOnUrl: >-
   https://www.technologyreview.com/s/608041/first-quantum-secured-blockchain-technology-tested-in-moscow/
 title: How the Russians used quantum mechanics to secure blockchains
-datePublished: '2017-12-16T02:56:46.358Z'
-dateModified: '2017-12-16T02:56:45.133Z'
+datePublished: '2017-12-28T20:47:33.980Z'
+dateModified: '2017-12-28T20:47:32.685Z'
 via: {}
 inFeed: true
 sourcePath: >-
