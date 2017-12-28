@@ -24,8 +24,8 @@ description: >-
 app_links: []
 isBasedOnUrl: 'https://cointelegraph.com/news/dont-fear-forks-theres-only-one-bitcoin'
 title: 'Don''t Fear Forks, There''s Only One Bitcoin'
-datePublished: '2017-12-28T20:47:33.996Z'
-dateModified: '2017-12-28T20:47:32.685Z'
+datePublished: '2017-12-28T21:03:06.074Z'
+dateModified: '2017-12-28T21:03:04.835Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-11-19-dont-fear-forks-theres-only-one-bitcoin.md
