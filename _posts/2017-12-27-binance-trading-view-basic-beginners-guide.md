@@ -4,8 +4,8 @@ description: >-
   In this post I will try to give a quick and easy overview of the different
   elements you will see when you go to the basic Trading View on Binance. In
   another post I will explain the Advanced Trading View.
-dateModified: '2017-12-28T20:53:36.014Z'
-datePublished: '2017-12-28T20:53:37.045Z'
+dateModified: '2017-12-28T20:53:59.400Z'
+datePublished: '2017-12-28T20:54:00.096Z'
 title: Binance Trading View (Basic) - Beginners Guide
 author: []
 publisher: {}
