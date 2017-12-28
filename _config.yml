@@ -17,7 +17,7 @@ author:
   email: ksvarre@gmail.com
   url: 'https://www.linkedin.com/in/ksvarre/'
 name: Crypto Economics
-url: 'http://crypto.think-like.me/'
+url: 'https://crypto.think-like.me/'
 navigation:
   - name: Home
     url: 'http://think-like.me'
@@ -69,3 +69,5 @@ description: >-
   sharing my interest in crypto currencies and blockchain technology. on this
   blog i will share news and posts that i found interesting and insightfull to
   where the crypto-market is going.
+analytics:
+  google: UA-79126334-1
