@@ -20,7 +20,7 @@ name: Crypto Economics
 url: 'https://crypto.think-like.me/'
 navigation:
   - name: Home
-    url: 'http://think-like.me'
+    url: 'https://think-like.me'
     type: external
   - name: Technology & Science
     url: 'http://ai.think-like.me/'
