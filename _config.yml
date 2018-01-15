@@ -29,7 +29,7 @@ navigation:
     url: 'https://business.think-like.me/'
     type: external
   - name: Motivation & Personal Deevlopment
-    url: 'http://development.think-like.me/'
+    url: 'https://development.think-like.me/'
     type: external
   - name: Accomplishments & Portfolio
     url: 'http://portfolio.think-like.me/'
