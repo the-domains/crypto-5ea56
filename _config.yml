@@ -32,7 +32,7 @@ navigation:
     url: 'https://development.think-like.me/'
     type: external
   - name: Accomplishments & Portfolio
-    url: 'http://portfolio.think-like.me/'
+    url: 'https://portfolio.think-like.me/'
     type: external
   - name: About Me
     url: 'https://www.linkedin.com/in/ksvarre'
