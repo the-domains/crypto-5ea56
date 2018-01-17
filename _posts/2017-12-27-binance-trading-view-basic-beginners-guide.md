@@ -4,8 +4,8 @@ description: >-
   In this post I will try to give a quick and easy overview of the different
   elements you will see when you go to the basic Trading View on Binance. In
   another post I will explain the Advanced Trading View.
-dateModified: '2017-12-28T21:15:12.208Z'
-datePublished: '2017-12-28T21:15:12.916Z'
+dateModified: '2018-01-17T16:47:00.664Z'
+datePublished: '2018-01-17T16:47:01.479Z'
 title: Binance Trading View (Basic) - Beginners Guide
 author: []
 publisher: {}
@@ -37,4 +37,3 @@ I will try to give a short explanation for each of the elements numbered in the 
 7. 24h Volume is the total volume that has been traded for this pair. In this case a total worth of 9,764.35402074 BTC has been traded with ADA coin.
 8. This is the orderbook, and this is where you will see all existing open orders. The ones in red are the open sell orders and the ones below in green are the existing open buy orders. An open sell order means that someone has put their ADA up for sell at a certain price. In this example you will see that the lowest price someone currently are willing to sell ADA for is 0.00002605, while the highest price anyone is willing to pay is 0.00002604\. This is also known as the spread. This can be a good indicator for you to see if there is a lot of support for the coin, in case the price drops. This can however be a very tricky indicator because there are so many bot traders, which have algorithms setup to dynamically open and close their buy/sell orders when the market moves. Thus, never solely rely on this when you evaluate whether or not the market is ripe for you to buy/sell. Use it in combination with your regular analysis and long term plan.
 9. Is the trading history, which shows you the previous orders for ADA/BTC in this example. As you will see the last traded price was 0.00002604, which matches the Last Price up in the left upper corner (3).
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2dee2a33-b095-4732-9040-67391e7330c9.png)
