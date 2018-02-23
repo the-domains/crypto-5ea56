@@ -1,9 +1,9 @@
 ---
 inFeed: true
 description: Click here for full article…
-dateModified: '2018-02-23T18:21:52.503Z'
-datePublished: '2018-02-23T18:21:52.982Z'
-title: 'ERC-20, ERC-223, ERC-721 - What is it?'
+dateModified: '2018-02-23T18:22:03.860Z'
+datePublished: '2018-02-23T18:22:04.373Z'
+title: "ERC-20, ERC-223,\_ERC-721 - What is it?"
 author:
   - name: Lukas K
     url: 'https://medium.com/@lukaskai'
@@ -15,16 +15,17 @@ publisher:
     https://cdn-static-1.medium.com/_/fp/icons/favicon-rebrand-medium.3Y6xpZ-0FSdWDnPM3hSBIA.ico
   domain: medium.com
 via: {}
-isBasedOnUrl: 'https://medium.com/crypto-currently/the-anatomy-of-erc721-e9db77abfc24'
+sourcePath: _posts/2018-02-23-erc-20-erc-223-erc-721-what-is-it.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2018-02-23T18:21:52.982Z'
-sourcePath: _posts/2018-02-23-erc-20-erc-223-erc-721-what-is-it.md
-_type: MediaObject
+url: erc-20-erc-223-erc-721-what-is-it/index.html
+_type: Article
 
 ---
 # **ERC-20, ERC-223, ERC-721 - What is it?**
 
-<article style=""><img src="https://cdn-images-1.medium.com/max/1200/1*yDdrX7p23wdG9zebXfHdZQ.png" /><h1>ERC standards to move Ethereum forward? ERC-20, ERC-223, ERC-721.</h1><p>ERC-20 is a well-known term in the Ethereum and ICO community. For the last few years, I've been consulting and contributing to various teams, helping them with token sale projects. Therefore, I had an opportunity to take a closer look at ERC standards, analyse and compare them.</p></article>
+<article style=""><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/5a7f9a72a791c9ae3586a53013a8a29b/noop.png?input=https%3A%2F%2Fcdn-images-1.medium.com%2Fmax%2F1200%2F1*yDdrX7p23wdG9zebXfHdZQ.png" /><h1>ERC standards to move Ethereum forward? ERC-20, ERC-223, ERC-721.</h1><p>ERC-20 is a well-known term in the Ethereum and ICO community. For the last few years, I've been consulting and contributing to various teams, helping them with token sale projects. Therefore, I had an opportunity to take a closer look at ERC standards, analyse and compare them.</p></article>
 
 [Click here for full article...][0]
 
